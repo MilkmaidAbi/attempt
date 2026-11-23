@@ -1,4 +1,4 @@
-\# Smart Greenhouse monitor
+# Smart Greenhouse monitor
 
 
 
@@ -6,12 +6,11 @@
 
 
 
-\## Requirements tracebabilty I cant fucking spell
+## Requirements tracebabilty I cant fucking spell
 
 
 
 | Requirement ID | Ptthon fucn | pyrest funct |
-
 | --- | --- | --- |
 
 
